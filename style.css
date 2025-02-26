@@ -61,7 +61,6 @@ body {
   color: #000;
   text-transform: uppercase;
   cursor: pointer;
-  transition: all 0.3s;
 }
 .sverpopup-razmers .sverpopup-tab-title:hover {
   color: #757575;
